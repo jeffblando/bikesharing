@@ -29,7 +29,7 @@ The purpose of this analysis was to provide detailed information for a group of 
 
 
 
-[CitiBike Dashboard](https://public.tableau.com/app/profile/jeffrey.j.blando/viz/NYCBikeRideChallenge/NYCBikeRides?publish=yes)
+All of this information can be found on my [CitiBike Dashboard].(https://public.tableau.com/app/profile/jeffrey.j.blando/viz/NYCBikeRideChallenge/NYCBikeRides?publish=yes)
   
   
 
