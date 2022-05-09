@@ -6,7 +6,7 @@ The purpose of this analysis was to provide detailed information for a group of 
 ### Results
 
 
-![top starting locations](/resources/NYC Bike Rides top start.png)
+[top starting locations](https://github.com/jeffblando/bikesharing/blob/21f0ce7602333a2235e419ef789da4b6c88e98b5/resources/NYC%20Bike%20Rides%20top%20start.png)
 
 
 ![top ending locations](/resources/NYC Bike Rides top end.png)
